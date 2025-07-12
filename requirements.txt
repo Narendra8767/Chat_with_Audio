@@ -1,0 +1,12 @@
+streamlit 
+requests
+python-dotenv
+gpt_index==0.4.15
+langchain>=0.1.14
+langchain-community
+langchain-openai
+PyPDF2
+chromadb
+numpy<1.26.0
+faiss-cpu
+certifi
