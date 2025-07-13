@@ -2,9 +2,10 @@
 
  🚀 Built an AI-powered app that lets you chat with YouTube videos using LLMs!
 I recently developed ChatAudio, a project that allows users to interact with YouTube video content in a conversational way — powered by LangChain, OpenAI, and Streamlit.
-
 🎯 Goal
 Enable users to extract transcripts from YouTube videos and ask any question about the content — just like chatting with the video!
+
+![image alt](https://github.com/Narendra8767/Chat_with_Audio/blob/9455e4ed93f411a692e53e58b5cb5e50beedc0f8/image/index.png)
 
 🔁 Workflow Overview
 1️⃣ User inputs a YouTube video URL
